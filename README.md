@@ -1,2 +1,2 @@
 # Get movie information from rottentomates 
-## Show data in terminal
+### Show data in terminal
