@@ -8,3 +8,5 @@ usage : rottentomatoes deadpools(movie name)
 ## Show serarching list in terminal
 usuage : rottentomatoes deadpools -l (movie name)
 ![image](https://github.com/Ray0907/movie/blob/master/screenshot_2.png)
+
+![image](http://recordit.co/WISLRIy8cv)
