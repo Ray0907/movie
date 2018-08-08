@@ -1,10 +1,8 @@
 from bs4 import BeautifulSoup
-from bs4 import NavigableString
 import requests
 import json
 from six.moves.urllib.parse import quote
-import re
-import sys
+
 
 SEARCH_URL='https://www.rottentomatoes.com/api/private/v2.0/search?q='
 PAGE_URL='https://www.rottentomatoes.com'

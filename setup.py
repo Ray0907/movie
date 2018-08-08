@@ -14,10 +14,12 @@ setup(
     description = "Get movie information from rottentomates and display in your terminal",
     license = "MIT",
     keywords = "rottentomatoes terminal movie",
-    #url = "https://github.com/chishui/douban-movie",
+    url = "https://github.com/Ray0907/movie",
     packages=['src'],
     #long_description=read('README.md'),
     include_package_data=True,
     install_requires=requirements,
-    entry_points={'console_scripts': ['rottentomatoes=src.__main__:main']},
+    entry_points={'console_scripts': ['rottentomatoes=src.__main__:main'],
+                  'console_scripts': ['atmovies=src.__main__:main']},
+
 )

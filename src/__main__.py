@@ -1,4 +1,5 @@
 from src.rottentomatoe import *
+from src.atmovies import *
 from src.view import run
 import traceback
 import argparse
