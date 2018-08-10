@@ -1,4 +1,4 @@
-# Get movie information from rottentomates 
+Get movie information from rottentomates 
 ====================================
 Show movie information from rottentomatoes and atmovies in terminal
 
