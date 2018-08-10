@@ -56,7 +56,8 @@ def parse(movie):
         movie.TOMATOMETER = soup.find('span',{'class':'meter-value superPageFontColor'}).text
     if soup.find('span',{'class':'superPageFontColor','style': 'vertical-align:top'}):
         movie.AUDIENCE_SCORE = soup.find('span',{'class':'superPageFontColor','style': 'vertical-align:top'}).text
-    movie.intro = soup.find('div', {"id": 'movieSynopsis'}).text
+    if soup.find('div', {"id": 'movieSynopsis'}):
+        movie.intro = soup.find('div', {"id": 'movieSynopsis'}).text
     print (movie)
 
 def get_movie(text):
