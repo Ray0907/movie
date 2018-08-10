@@ -2,9 +2,9 @@
 ====================================
 Show movie information from rottentomatoes and atmovies in terminal
 
-![alt text](https://github.com/Ray0907/movie/blob/master/screenshot/screenshot.png "movie information")
-![alt text](https://github.com/Ray0907/movie/blob/master/screenshot/screenshot_2.png "movie list)
-![alt text](http://recordit.co/WISLRIy8cv.gif "demo")
+![image](https://github.com/Ray0907/movie/blob/master/screenshot/screenshot.png )
+![image](https://github.com/Ray0907/movie/blob/master/screenshot/screenshot_2.png)
+![image](http://recordit.co/WISLRIy8cv.gif )
 
 ------------------
 # Requirements
